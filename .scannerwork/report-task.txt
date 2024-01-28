@@ -2,5 +2,5 @@ projectKey=fc-sonarqube-challenge
 serverUrl=http://localhost:9000
 serverVersion=10.3.0.82913
 dashboardUrl=http://localhost:9000/dashboard?id=fc-sonarqube-challenge
-ceTaskId=AY1R-m4x1f_6GKKo-2Wp
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AY1R-m4x1f_6GKKo-2Wp
+ceTaskId=AY1SKprj1f_6GKKo-2Wu
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY1SKprj1f_6GKKo-2Wu
